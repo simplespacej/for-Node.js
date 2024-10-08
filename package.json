@@ -1,0 +1,23 @@
+{
+  "name": "for-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simplespacej/for-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplespacej/for-Node.js/issues"
+  },
+  "homepage": "https://github.com/simplespacej/for-Node.js#readme",
+  "description": "",
+  "dependencies": {
+    "@simplespacej/ajs": "^1.0.0"
+  }
+}
